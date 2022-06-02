@@ -1,0 +1,278 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background: url(background.jpg);
+    height: 50vh;
+    background-size: cover;
+}
+
+.main h1{
+    color: green;
+    margin-left: 700px;
+    padding-top: 100px;
+}
+.main p{
+    color: white;
+    margin-left: 550px;
+    font-size: 25px;
+}
+.btnn{
+    background-color: green;
+    width: 200px;
+    font-size: 25px;
+    color: white;
+    border: none;
+    font-family: Arial;
+    margin-left: 898px;
+    height: 6vh;
+}
+.sub{
+    background-color:  rgb(213,228,219);
+    height: 750px;
+    border: none;
+    padding-top: 120px;
+}
+.pic1{
+    height: 300px;
+    width: 400px;
+    background: url(rose.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 100px;
+    border: none;
+}
+
+.pic2{
+height: 300px;
+width: 400px;
+background: url(moon.jpg);
+background-size: cover;
+background-position: center;
+margin-left: 500px;
+border: none;
+margin-top: -470px;
+}
+.sub h2{
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+.pic1 p{
+    padding-top: 330px;
+}
+.sub1{
+    width: 450px;
+    height: 400px;
+    border: none;
+    float: right;
+    margin-right: 750px;
+    margin-top: -300px;
+}
+.btnnn{
+    width: 448px;
+    height: 40px;
+    font-size: 21px;
+    padding-right: 380px;
+    border: none;
+}
+.btnnnn{
+    width: 448px;
+    height: 40px;
+    font-size: 21px;
+    padding-right: 300px;
+    margin-top: 20px;
+    border: none;
+}
+.btnnnnn{
+    width: 448px;
+    height: 180px;
+    margin-top: 20px;
+    border: none;
+}
+.btnnnnnn{
+    width: 448px;
+    height: 40px;
+    font-size: 25px;
+    background-color: green;
+    color: white;
+    margin-top: 20px;
+    border: none;
+}
+.sub2{
+  border: 2px solid blue;
+  height: 55vh;
+  background-color: rgba(195,198,192,0.901);
+}
+.content{
+    border: 2px solid black;
+    height: 50vh;
+    background-color: black;
+    color: white;
+}
+.content h2{
+    padding-top: 100px;
+    padding-left: 200px;
+    font-size: 35;
+}
+.content p{
+    padding-top: 20px;
+    padding-left: 200px;
+    font-size: 20px;
+}
+.d1{
+    
+    width: 200px;
+    height: 170px;
+    margin-left: 500px;
+    border-radius: 50%;
+    background: url(egirl-1.png);
+    background-position: center;
+    background-size: cover;
+
+}
+.d2{
+     
+        width: 200px;
+        height: 170px;
+        margin-left: 800px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(eboy-1.png);
+        background-position: center;
+        background-size: cover;
+
+    }
+    .d3{
+       
+        width: 200px;
+        height: 170px;
+        margin-left: 1100px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(girl-2.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .d4{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 1400px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(boy-2.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .d5{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 500px;
+        margin-top: 100px;
+        border-radius: 50%;
+        background: url(girl-3.webp);
+        background-position: center;
+        background-size: cover;
+    }
+    .d6{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 1100px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(boy-3.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .d7{
+       
+        width: 200px;
+        height: 170px;
+        margin-left: 830px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(boy-4.jpg);
+        background-position: center;
+        background-size: cover;
+      
+    }
+    .d8{
+    
+        width: 200px;
+        height: 170px;
+        margin-left: 1400px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(girl-4.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .n1{
+        width: 160px;
+        height: 60px;
+  
+        margin-left: 550px;
+        margin-top: -7cm;
+    
+    }
+    .n2{
+        width: 160px;
+        height: 60px;
+
+        margin-left: 850px;
+        margin-top: -1.65cm;
+    }
+    .n3{
+        width: 160px;
+        height: 60px;
+       
+        margin-left: 1140px;
+        margin-top: -1.65cm;
+    }
+    .n4{
+        width: 160px;
+        height: 60px;
+      
+        margin-left: 1450px;
+        margin-top: -1.65cm;
+    }
+    .n5{
+        width: 160px;
+        height: 60px;
+        
+        margin-left: 1450px;
+        margin-top: 6cm;
+    }
+    .n6{
+        width: 160px;
+        height: 60px;
+      
+        margin-left: 890px;
+        margin-top: -1.60cm;
+    }
+    .n7{
+        width: 160px;
+        height: 60px;
+      
+        margin-left: 550px;
+        margin-top: -1.60cm;
+    }
+    .n8{
+        width: 160px;
+        height: 60px;
+     
+        margin-left: 1145px;
+        margin-top: -1.60cm;
+    }
+    .sub4{
+        border: none;
+        height: 30vh;
+        width: 450px;
+        margin-left: 1400px;
+        margin-top: -260px;
+        font-size: 15px;
+    }
